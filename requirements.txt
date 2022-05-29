@@ -1,0 +1,6 @@
+socket
+random
+time
+colorama
+os
+pyfiglet
